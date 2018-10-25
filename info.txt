@@ -1,0 +1,1 @@
+In this project, we worked on the instructions of LC-3 computer.
